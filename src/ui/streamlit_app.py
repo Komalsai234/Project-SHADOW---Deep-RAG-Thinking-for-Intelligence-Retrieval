@@ -1,6 +1,11 @@
 import streamlit as st
 from src.pipeline.orchestrator import PipelineOrchestrator
 import logging
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
 
 logging.basicConfig(level=logging.INFO)
 
