@@ -1,4 +1,10 @@
 from typing import List, Dict, Tuple
+import sys
+import importlib
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
+importlib.reload(pysqlite3)
+
 import chromadb
 from sentence_transformers import SentenceTransformer
 import networkx as nx
