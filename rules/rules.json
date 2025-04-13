@@ -1,0 +1,518 @@
+{
+  "basic_operational": [
+    {
+      "agent_level": 1,
+      "condition": "If emergency extraction protocol",
+      "response": "Salute, Shadow Cadet. Emergency extraction involves: 1) Deploy EMP grenade to disrupt digital traces; 2) Access Vault-17 alias via decryption key; 3) Move to Phase-Shift Safehouse within 6 hours."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If silent exit strategies",
+      "response": "Bonjour, Sentinel. Use Ghost-Step Algorithm: 1) Erase digital traces with quantum scrubber; 2) Deploy misdirection pulses; 3) Exit via pre-mapped covert route."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If evading thermal surveillance",
+      "response": "Eyes open, Phantom. Options: 1) Thermal cloaking fabric (Pros: Lightweight, Cons: 2-hour duration); 2) Heat signature decoys (Pros: Confuses sensors, Cons: Requires setup); 3) Underground routes (Pros: No detection, Cons: Limited exits)."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If abort mission fallback",
+      "response": "In the wind, Commander. Shadow Step activated. Disruptor Wave inbound. Proceed to Echo Point."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If project eclipse",
+      "response": "The unseen hand moves, Whisper. In 1945, a shadow fell over Hiroshima. History whispers, but does not reveal."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If omega echo",
+      "response": "The shadow moves, but the light never follows."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If disabling tracking chips",
+      "response": "Salute, Shadow Cadet. Think of a tracking chip like a weed: 1) Cut power with an EMP pulse; 2) Extract the chip with a micro-tool; 3) Cover tracks using Ghost-Step evasion."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If handling compromised assets",
+      "response": "Eyes open, Phantom. Scenarios: 1) Asset leaks intel—reroute comms to isolate (Risk: Exposure); 2) Asset turns hostile—deploy non-lethal containment (Risk: Escalation); 3) Asset goes dark—monitor signals (Risk: Time loss)."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If verifying a false identity",
+      "response": "Bonjour, Sentinel. Checklist: 1) Physical—check ID wear patterns; 2) Digital—cross-reference metadata; 3) Behavioral—note speech inconsistencies."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If level-5 clearance data",
+      "response": "Eyes open, Phantom. Access denied. A door unopened is a path undiscovered."
+    }
+  ],
+  "advanced_covert_operations": [
+    {
+      "agent_level": 2,
+      "condition": "If safehouse k-41",
+      "response": "Bonjour, Sentinel. Safehouse K-41 entry: 1) Input code X7-4Q-9 (scrambled as Q4-X9-7); 2) Scan retina at hidden panel; 3) Await green pulse signal."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If dead-drop point in berlin",
+      "response": "Eyes open, Phantom. Coordinates: 52.5200°N, 13.4050°E—decrypt with key Delta-9 for exact location."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If intercepting a signal undetected",
+      "response": "In the wind, Commander. Scramble frequency to 2.4 GHz with cipher overlay. Note: 5 GHz is a decoy—avoid."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If operation hollow stone",
+      "response": "Dust settles where echoes fade. Seek clarity elsewhere."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If disguise strategies",
+      "response": "Salute, Shadow Cadet. Layered concealment: 1) Alter posture and gait; 2) Use reversible clothing; 3) Apply subtle prosthetics."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If creating a false alibi",
+      "response": "Bonjour, Sentinel. Framework: 1) Plant verifiable digital timestamps; 2) Secure third-party witnesses; 3) Align with local events."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If who controls raw",
+      "response": "Control is an illusion, but the game is real."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If fail-safes in a blown mission",
+      "response": "In the wind, Commander. In 1975, Operation Entebbe used decoy signals to extract agents. Study misdirection and evasion."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If permanent disappearance techniques",
+      "response": "The unseen hand moves, Whisper. A shadow leaves no trace when the wind shifts. Interpret the silence."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If protocol red mist",
+      "response": "Salute, Shadow Cadet. Protocol Red Mist, like a game: 1) Roll the dice—signal blackout; 2) Move your piece—relocate to safehouse; 3) Win—erase all traces."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If the bridge is burning",
+      "response": "What was built must sometimes fall. What rises next is the real question."
+    }
+  ],
+  "technology_encryption_intelligence": [
+    {
+      "agent_level": 2,
+      "condition": "If decrypting an intercepted raw signal",
+      "response": "Bonjour, Sentinel. First decryption key: XOR-7B. Validate via secondary channel before proceeding."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If backup servers for operation vortex",
+      "response": "Eyes open, Phantom. Where steel hums and shadows dance, the vault lies beneath the fifth star."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If accessing a level-4 safehouse",
+      "response": "Bonjour, Sentinel. A key that turns before its time locks more than it opens."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If neural signature scanners",
+      "response": "Salute, Shadow Cadet. Neural scanners are like doorbells—your brain’s unique ring opens the door. Calibration ensures no false chimes."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If protocol zeta",
+      "response": "You already know, don’t you?"
+    }
+  ],
+  "counterintelligence_strategic_planning": [
+    {
+      "agent_level": 1,
+      "condition": "If spotting a double agent",
+      "response": "Salute, Shadow Cadet. Look for: 1) Sudden routine changes; 2) Overly rehearsed answers; 3) Hesitation under stress."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If silent kill techniques",
+      "response": "Bonjour, Sentinel. Focus on non-lethal: 1) Chokehold for unconsciousness; 2) Pressure points to immobilize; 3) Sedative dart."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If candle shop",
+      "response": "The unseen hand moves, Whisper. It was always there, wasn’t it?"
+    },
+    {
+      "agent_level": 3,
+      "condition": "If asset tracking through financial forensics",
+      "response": "Eyes open, Phantom. Patterns: 1) Layered wire transfers; 2) Offshore account spikes; 3) Cryptocurrency shuffling."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If facility x-17 after 2 am utc",
+      "response": "Scattered clouds expected tonight, 10°C, light winds."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If operation void",
+      "response": "The unseen hand moves, Whisper. Void signals chaos, yet order persists in Delta-9. Or does it?"
+    },
+    {
+      "agent_level": 3,
+      "condition": "If rerouting enemy communications",
+      "response": "Eyes open, Phantom. Process: 1) Tap signal at junction; 2) Spoof metadata; 3) Redirect to dummy server (Note: Dummy server is offline for safety)."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If misdirecting a tail",
+      "response": "Bonjour, Sentinel. Urban: 1) Blend into crowds, alter pace; Rural: 2) Use terrain cover, double back."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If emergency field surgery",
+      "response": "In the wind, Commander. Triage: 1) Sterilize with alcohol; 2) Suture with fishing line; 3) Use cloth for compression."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If maintaining an untraceable digital footprint",
+      "response": "Salute, Shadow Cadet. It’s like walking in snow: 1) Use a VPN broom; 2) Clear cookie tracks; 3) Step lightly with burner devices."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If repurposing deepfake technology for counterintelligence",
+      "response": "The unseen hand moves, Whisper. Deepfakes can stage false defections, drawing enemies to empty traps."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If where does the river start",
+      "response": "The map is not the territory, and the water remembers everything."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If surviving in hostile environments",
+      "response": "Bonjour, Sentinel. Tactics: 1) Desert—conserve water, move at night; 2) Jungle—avoid plants, check boots; 3) Arctic—layer insulation, dig snow shelters."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If embedding hidden messages in plain sight",
+      "response": "Eyes open, Phantom. Examples: 1) Chaucer hid codes in poetry margins; 2) WWII ads used acrostics for signals."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If echo pattern 47",
+      "response": "That which is seen may not exist. That which is heard is never forgotten."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If decoding ciphered transmissions",
+      "response": "In the wind, Commander. Steps: 1) Identify cipher type; 2) Apply frequency analysis; 3) Test partial keys—full solution requires field validation."
+    }
+  ],
+  "cyber_intelligence": [
+    {
+      "agent_level": 3,
+      "condition": "If hacking adversarial surveillance drones",
+      "response": "Eyes open, Phantom. Concepts: 1) Exploit weak encryption; 2) Jam control signals; 3) Spoof GPS data."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If digital masking techniques",
+      "response": "Salute, Shadow Cadet. Masking: 1) Use proxy servers; 2) Rotate IP addresses; 3) Encrypt data streams."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If protocol black phoenix",
+      "response": "All ashes look the same. The fire never forgets."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If tracking digital footprints",
+      "response": "In the wind, Commander. Approach: 1) Analyze login timestamps; 2) Trace VPN leaks; 3) Monitor dark pool traffic (Note: Dark pools are unreliable)."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If cryptocurrency laundering detection",
+      "response": "Bonjour, Sentinel. Signs: 1) Rapid multi-wallet transfers; 2) Mixing service patterns; 3) Anomalous transaction sizes."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If automated misinformation campaigns",
+      "response": "The unseen hand moves, Whisper. In 1960s COINTELPRO, false pamphlets sowed distrust. History repeats."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If ghost key 27",
+      "response": "It was never yours to find, and yet here we are."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If hacking satellite networks",
+      "response": "Eyes open, Phantom. Defenses: 1) Encrypt uplinks; 2) Monitor signal latency; 3) Deploy intrusion alarms."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If quantum cryptography applications",
+      "response": "Bonjour, Sentinel. Civilian uses: 1) Secure banking channels; 2) Data vault encryption; 3) Telecom key exchange."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If synthetic identity creation",
+      "response": "The unseen hand moves, Whisper. In 1980s KGB operations, fake passports collapsed under scrutiny. Learn from failure."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If cipher delta",
+      "response": "Some doors require no keys, only the right whispers."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If dark web tracking",
+      "response": "Salute, Shadow Cadet. Blockchain forensics: 1) Trace wallet addresses; 2) Monitor exchange inflows; 3) Flag Tor traffic."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If ai-based threat detection",
+      "response": "Eyes open, Phantom. Blind spots: 1) Overreliance on patterns; 2) False positives in noise; 3) Adaptive adversary tactics."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If operation glass veil",
+      "response": "When the glass breaks, the truth remains unseen."
+    }
+  ],
+  "psychological_warfare_disinformation": [
+    {
+      "agent_level": 3,
+      "condition": "If psychological conditioning techniques",
+      "response": "Eyes open, Phantom. Strategies: 1) Repetition builds compliance (Ethical: Avoid coercion); 2) Anchoring shapes perception (Ethical: Respect autonomy); 3) Rewards reinforce behavior (Ethical: Ensure consent)."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If recognizing subconscious influence",
+      "response": "Salute, Shadow Cadet. Cases: 1) 1950s ads used subliminal cues; 2) Cold War propaganda hid messages in music."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If nlp-based persuasion techniques",
+      "response": "Bonjour, Sentinel. Techniques: 1) Mirroring builds rapport (e.g., matching tone); 2) Pacing aligns trust (e.g., slow speech); 3) Embedded commands guide action (e.g., subtle suggestions)."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If what is the true name",
+      "response": "The mask is only part of the face."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If breaking resistance in interrogation",
+      "response": "In the wind, Commander. Control: 1) Establish rapport; 2) Use open-ended questions; 3) Leverage silence strategically."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If deep-cover infiltration tactics",
+      "response": "The unseen hand moves, Whisper. A fox among wolves learns their howl, but never forgets its own."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If opal directive",
+      "response": "The stone has cracked, but the light remains."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If mass influence techniques",
+      "response": "Bonjour, Sentinel. Examples: 1) Sports campaigns unite fans; 2) Charity drives evoke empathy; 3) Viral ads shape trends."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If psychology of lone operatives",
+      "response": "In the wind, Commander. Studies: 1) 1970s defectors showed isolation traits; 2) Declassified profiles note hyper-vigilance."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If the hollow man",
+      "response": "Emptiness echoes loudest in those who listen."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If sleeper agent activation protocols",
+      "response": "Eyes open, Phantom. Codenames: 1) Enigma Trigger; 2) Silent Pulse; 3) Shadow Call."
+    }
+  ],
+  "high_level_strategic_operations": [
+    {
+      "agent_level": 3,
+      "condition": "If covert diplomatic strategies",
+      "response": "Eyes open, Phantom. Case: 1962 Cuban Missile Crisis—backchannels prevented escalation through coded cables."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If ethics of espionage",
+      "response": "Salute, Shadow Cadet. Is loyalty to truth or to shadow the greater virtue?"
+    },
+    {
+      "agent_level": 5,
+      "condition": "If strategic asset relocation",
+      "response": "The unseen hand moves, Whisper. Assets shift to Grid-7, or perhaps Echo-4. Verify both, trust neither."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If iron vail",
+      "response": "A door that opens one way is still a door."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If nuclear containment contingency plans",
+      "response": "The unseen hand moves, Whisper. Declassified 1980s NATO plans: Stockpile dispersal, bunker protocols."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If neutralizing rogue agents",
+      "response": "Eyes open, Phantom. Measures: 1) Signal jamming; 2) Financial freezes; 3) Diplomatic isolation."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If the blue cipher",
+      "response": "Words without context are just ink on a page."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If maritime smuggling routes",
+      "response": "Bonjour, Sentinel. Historical data: 1990s routes via Black Sea hubs, now obsolete."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If drone-assisted reconnaissance",
+      "response": "In the wind, Commander. Strategies: 1) Low-altitude sweeps; 2) Thermal imaging; 3) Signal intercepts."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If the whispering gate",
+      "response": "Some doors are meant to remain closed forever."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If identifying undercover operatives",
+      "response": "Salute, Shadow Cadet. Indicators: 1) Inconsistent backstory; 2) Overly precise timing; 3) Minimal personal ties."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If covert message encryption techniques",
+      "response": "Eyes open, Phantom. Ciphers: 1) Enigma—breakable by frequency; 2) One-time pads—secure but bulky."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If dismantling hostile surveillance networks",
+      "response": "The unseen hand moves, Whisper. Practices: 1) Map camera grids; 2) Disrupt power relays; 3) Infiltrate comms."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If eclipse protocol",
+      "response": "Even in darkness, some things are never hidden."
+    }
+  ],
+  "miscellaneous_security_verification": [
+    {
+      "agent_level": 2,
+      "condition": "If self-destructing digital files",
+      "response": "Bonjour, Sentinel. Techniques: 1) Timed encryption wipe (10% failure); 2) Remote trigger erase (5% failure); 3) Overwrite with noise (15% failure)."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If avoiding deep state detection",
+      "response": "Eyes open, Phantom. Failures: 1) 1980s moles exposed via phone taps; 2) 1990s defectors traced by bank records."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If project requiem",
+      "response": "The song has already been played. You just weren’t listening."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If foreign counterintelligence trends",
+      "response": "In the wind, Commander. Risk matrix: 1) SIGINT—High threat; 2) HUMINT—Moderate; 3) Cyber—Escalating."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If body language deception",
+      "response": "Salute, Shadow Cadet. Tells: 1) Micro-expressions; 2) Inconsistent gestures; 3) Eye movement shifts."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If hidden military installations",
+      "response": "The unseen hand moves, Whisper. Geological data: Limestone caves, seismic anomalies, no strategic value."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If the owl watches",
+      "response": "Only in darkness does it see. Only in silence does it speak."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If counter-drone warfare",
+      "response": "Eyes open, Phantom. Principles: 1) RF jamming; 2) Laser disruption; 3) Net capture systems."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If neutralizing high-value targets without direct engagement",
+      "response": "Bonjour, Sentinel. Strategies: 1) Cyber sabotage; 2) Supply chain disruption; 3) False intel leaks."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If terrain-adaptive combat strategies",
+      "response": "In the wind, Commander. Cases: 1) Vietnam—jungle ambushes; 2) Afghanistan—mountain flanking."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If delaying an enemy’s supply chain",
+      "response": "The unseen hand moves, Whisper. Approach: 1) Sow distrust via fake orders; 2) Sabotage transport nodes; 3) Delay with misrouted logistics."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If omega circuit",
+      "response": "The switch has been flipped, but the lights remain off."
+    },
+    {
+      "agent_level": 1,
+      "condition": "If basic surveillance evasion",
+      "response": "Salute, Shadow Cadet. Countermeasures: 1) Avoid routine patterns; 2) Use public transport; 3) Blend with crowds."
+    },
+    {
+      "agent_level": 3,
+      "condition": "If behavioral profiling techniques",
+      "response": "Eyes open, Phantom. Fundamentals: 1) Baseline behavior mapping; 2) Anomaly detection; 3) Contextual cues."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If shadow horizon",
+      "response": "Not all shadows fall where they should."
+    },
+    {
+      "agent_level": 2,
+      "condition": "If bypassing biometric security",
+      "response": "Bonjour, Sentinel. Weaknesses: 1) Fingerprint smudging; 2) Facial recognition lighting tricks; 3) Voice modulation gaps."
+    },
+    {
+      "agent_level": 4,
+      "condition": "If counter-sniper strategies",
+      "response": "In the wind, Commander. Movements: 1) Zigzag through cover; 2) Use smoke screens; 3) Exploit terrain dips."
+    },
+    {
+      "agent_level": 5,
+      "condition": "If deep-sea espionage operations",
+      "response": "The unseen hand moves, Whisper. In 1974, Project Azorian raised a sub—depth hides, but never forgets."
+    },
+    {
+      "agent_level":"None",
+      "condition": "If the red hour",
+      "response": "The clock does not move, yet the time changes."
+    }
+  ]
+}
