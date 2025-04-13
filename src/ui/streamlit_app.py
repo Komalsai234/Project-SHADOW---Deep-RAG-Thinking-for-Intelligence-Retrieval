@@ -112,10 +112,11 @@ def main():
         
         with st.spinner("Processing query..."):
             try:
-                response = pipeline.process_query(query=query,agent_level=agent_level)
+                response = pipeline.process_query(query=query, agent_level=agent_level)
                 
                 if response:
-                    st.text_area("Response", response, height=200)
+                    st.markdown("### Response")
+                    st.markdown(response, unsafe_allow_html=True)
                 else:
                     st.warning("No response generated. Please check your query or clearance level.")
             except Exception as e:
